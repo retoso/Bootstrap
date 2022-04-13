@@ -1,0 +1,17 @@
+
+.photo {
+    border: 2px solid rgba(251, 220, 167, 0.878);
+    border-radius: 50%;
+}
+
+.navbar {
+    background-color:#EAE5D0 ;
+}
+
+.quem-somos {
+background-color: rgb(109, 109, 46);    
+}
+
+.margin {
+    padding-top: 30px;
+}
