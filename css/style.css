@@ -1,17 +1,33 @@
+body {
+    background: rgb(228, 240, 243);  
+    font-family: Verdana; 
+   }
+
 
 .photo {
-    border: 2px solid rgba(251, 220, 167, 0.878);
+    border: 2px solid rgba(205, 223, 235, 0.96);
     border-radius: 50%;
 }
 
 .navbar {
-    background-color:#EAE5D0 ;
+    background-color:#f2f7f9 ;
 }
 
 .quem-somos {
-background-color: rgb(109, 109, 46);    
+background-color: rgb(242, 242, 233); 
+padding: 10px;   
 }
+
 
 .margin {
     padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: rgb(240, 251, 250);   
+}
+
+bg-footer {
+    background-color: rgb(241, 240, 244);
 }
